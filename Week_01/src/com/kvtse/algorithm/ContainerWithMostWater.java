@@ -28,18 +28,23 @@ public class ContainerWithMostWater {
         int left = 0;
         int right = height.length -1;
         while (left < right){
-            int area ;
-            // 右边比左边高,需要移动左边元素 左边右移
-            if (height[left] < height[right]){
-                area = (right-left) * height[left];
-                left ++;
-            }else {
-                // 左边比右边高,需要移动右边元素,右边左移
+            // 这写法简直 优美了
+            maxArea = height[left] < height[right] ?
+                    Math.max(maxArea, (right - left) * height[left++]):
+                    Math.max(maxArea, (right - left) * height[right--]);
 
-                area = (right - left) * height[right];
-                right--;
-            }
-            maxArea = Math.max(area,maxArea);
+//            int area ;
+//            // 右边比左边高,需要移动左边元素 左边右移
+//            if (height[left] < height[right]){
+//                area = (right-left) * height[left];
+//                left ++;
+//            }else {
+//                // 左边比右边高,需要移动右边元素,右边左移
+//
+//                area = (right - left) * height[right];
+//                right--;
+//            }
+//            maxArea = Math.max(area,maxArea);
         }
 
         return maxArea;
