@@ -2,6 +2,7 @@ package com.kvtse.algorithm;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 /**
  * https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
@@ -11,7 +12,34 @@ import java.util.List;
  */
 public class BinaryTreeInorderTraversal {
     public List<Integer> inorderTraversal(TreeNode root) {
-        return recursion(root);
+//        return recursion(root);
+        return iteration(root);
+    }
+
+    /**
+     * 时间复杂度 O(n)
+     * 迭代方法
+     * @param root 根节点
+     * @return
+     */
+    private List<Integer> iteration(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        // stack.size = 0 && root == null 时,退出迭代
+        while(stack.size() >0 || root != null){
+            if (root != null){
+                // 将做节点压入栈中
+                stack.add(root);
+                root = root.left;
+            }else{
+                // 根节点为空了,说明节点已经遍历完成
+                // 需要从stack中弹出元素
+                TreeNode tmpNode = stack.pop();
+                res.add(tmpNode.val);
+                root = tmpNode.right;
+            }
+        }
+        return res;
     }
 
     /**
