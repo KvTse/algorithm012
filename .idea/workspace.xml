@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f14ab5fe-5dd8-446a-b5d2-c5d73008392d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreeInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreeInorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm012.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm012.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,26 +16,28 @@
     <session id="-220377172">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="HashMapSummary" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="21" />
-          <entry key="md" value="2" />
+          <entry key="java" value="29" />
+          <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="21" />
-          <entry key="Markdown" value="2" />
+          <entry key="JAVA" value="29" />
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -41,14 +45,14 @@
         <counts>
           <entry key="HashMapSummary" value="620" />
           <entry key="gitignore" value="5" />
-          <entry key="java" value="3578" />
-          <entry key="md" value="225" />
+          <entry key="java" value="4968" />
+          <entry key="md" value="258" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3578" />
-          <entry key="Markdown" value="225" />
+          <entry key="JAVA" value="4968" />
+          <entry key="Markdown" value="258" />
           <entry key="PLAIN_TEXT" value="625" />
         </counts>
       </usages-collector>
@@ -56,23 +60,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMapSummary">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_03/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="275">
+                <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/HashMap.java">
+        <entry file="file://$PROJECT_DIR$/Week_03/src/com/kvtse/algorithm/ClimbingStairsRecur.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="783" column="63" selection-start-line="783" selection-start-column="63" selection-end-line="783" selection-end-column="63" />
-              <folding>
-                <element signature="e#28238#28281#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="-50">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../jdk_src/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="758" selection-start-line="758" selection-end-line="758" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/ClimbingStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -80,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="200">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,27 +112,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/Anagram.java">
+        <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/ContainerWithMostWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="76" column="54" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="172">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/NAryTree.java">
+        <entry file="file://$PROJECT_DIR$/Week_03/src/com/kvtse/algorithm/TwoSumInSortArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-127">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -118,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreeInorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-620">
+            <state relative-caret-position="425">
               <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreePreorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="1400">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/Vector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="18250">
               <caret line="779" column="32" selection-start-line="779" selection-start-column="32" selection-end-line="779" selection-end-column="32" />
             </state>
           </provider>
@@ -160,6 +174,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>putva</find>
+      <find>put</find>
+      <find>putval</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -190,13 +206,17 @@
         <option value="$PROJECT_DIR$/Week_02/README.md" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMapSummary.java" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMapSummary" />
-        <option value="$PROJECT_DIR$/../jdk_src/java/util/HashMap.java" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMap.java" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/Anagram.java" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/a.java" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/NAryTree.java" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreeInorderTraversal.java" />
         <option value="$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreePreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/../jdk_src/java/util/HashMap.java" />
+        <option value="$PROJECT_DIR$/Week_03/README.md" />
+        <option value="$PROJECT_DIR$/Week_03/src/com/kvtse/algorithm/ClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/Week_03/src/com/kvtse/algorithm/ClimbingStairsRecur.java" />
+        <option value="$PROJECT_DIR$/Week_03/src/com/kvtse/algorithm/TwoSumInSortArray.java" />
       </list>
     </option>
   </component>
@@ -234,6 +254,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,71 +266,54 @@
             <path>
               <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm012" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm012" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm012" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm012" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm012" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm012" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_03" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm012" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeInorderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm012" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="HashM&#9;FILE&#9;file://D:/kvtse/workspace/jdk_src/java/util/HashMap.java" />
+    <property name="SearchEverywhereHistoryKey" value="Map&#9;FILE&#9;file://D:/kvtse/workspace/jdk_src/java/util/HashMap.java&#10;HashM&#9;FILE&#9;file://D:/kvtse/workspace/jdk_src/java/util/HashMap.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595177935882" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595266650535" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -337,9 +341,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClimbingStairs">
+  <component name="RunManager" selected="Application.ClimbingStairsRecur">
     <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kvtse.algorithm.ClimbingStairs" />
+      <module name="algorithm012" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kvtse.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClimbingStairsRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kvtse.algorithm.ClimbingStairsRecur" />
       <module name="algorithm012" />
       <extension name="coverage">
         <pattern>
@@ -381,9 +398,11 @@
       <item itemvalue="Application.ZeroMove" />
       <item itemvalue="Application.ContainerWithMostWater" />
       <item itemvalue="Application.ClimbingStairs" />
+      <item itemvalue="Application.ClimbingStairsRecur" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimbingStairsRecur" />
         <item itemvalue="Application.ClimbingStairs" />
         <item itemvalue="Application.ContainerWithMostWater" />
         <item itemvalue="Application.ZeroMove" />
@@ -403,18 +422,19 @@
       <workItem from="1594460592377" duration="8911000" />
       <workItem from="1594659280510" duration="4451000" />
       <workItem from="1594740845187" duration="2529000" />
-      <workItem from="1595150809471" duration="17206000" />
+      <workItem from="1595150809471" duration="19869000" />
+      <workItem from="1595233031819" duration="7082000" />
+      <workItem from="1595262190801" duration="4905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33097000" />
+    <option name="totallyTimeSpent" value="47747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25955734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26693493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -424,7 +444,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -480,23 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/ContainerWithMostWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="33" column="72" selection-start-line="31" selection-start-column="12" selection-end-line="33" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/ClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/ZeroMove.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
@@ -518,16 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMapSummary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="12" selection-start-line="12" selection-start-column="8" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMapSummary.java" />
     <entry file="file://$PROJECT_DIR$/Week_02/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -538,43 +532,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/a.java" />
     <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMapSummary">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
+        <state relative-caret-position="725">
           <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="783" column="63" selection-start-line="783" selection-start-column="63" selection-end-line="783" selection-end-column="63" />
+        <state relative-caret-position="293">
+          <caret line="2360" column="11" selection-start-line="2360" selection-start-column="11" selection-end-line="2360" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4175">
+          <caret line="193" column="8" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
           <folding>
-            <element signature="e#28238#28281#1" expanded="true" />
+            <element signature="e#8806#8807#0" expanded="true" />
+            <element signature="e#8859#8860#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2800">
-          <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
+        <state relative-caret-position="1725">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
+          <folding>
+            <element signature="e#2786#2787#0" expanded="true" />
+            <element signature="e#2837#2838#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/TwoSum.java">
+    <entry file="file://$PROJECT_DIR$/../jdk_src/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1900">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="1850">
           <caret line="76" column="54" selection-start-line="76" selection-start-column="54" selection-end-line="76" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -582,31 +587,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/a.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/NAryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
+        <state relative-caret-position="625">
           <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="779" column="32" selection-start-line="779" selection-start-column="32" selection-end-line="779" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-620">
+        <state relative-caret-position="425">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -616,11 +609,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_02/src/com/kvtse/algorithm/BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="1400">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdk_src/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18250">
+          <caret line="779" column="32" selection-start-line="779" selection-start-column="32" selection-end-line="779" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/ClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdk_src/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="758" selection-start-line="758" selection-end-line="758" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/src/com/kvtse/algorithm/ClimbingStairsRecur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_01/src/com/kvtse/algorithm/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/src/com/kvtse/algorithm/TwoSumInSortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_03/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="275">
+            <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
