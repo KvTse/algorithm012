@@ -68,4 +68,14 @@ public class BinaryTreeInorderTraversal {
      TreeNode left;
      TreeNode right;
      TreeNode(int x) { val = x; }
-  }
+
+     @Override
+     public boolean equals(Object obj) {
+         return super.equals(obj);
+     }
+
+     @Override
+     public int hashCode() {
+         return super.hashCode();
+     }
+ }
